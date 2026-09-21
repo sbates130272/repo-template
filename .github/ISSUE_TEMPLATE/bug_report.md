@@ -19,6 +19,9 @@ What you expected to happen.
 **Actual behavior**
 What actually happened. Include any error output.
 
+**Severity**
+<!-- critical / major / minor / trivial -->
+
 **Environment**
 - OS:
 - Relevant versions:

@@ -22,6 +22,7 @@ Or via the GitHub UI: click **Use this template** on the repo page.
 ## Post-creation checklist
 
 - [ ] Update `README.md`
+- [ ] Review `.github/workflows/*.yml` and delete any that don't apply (e.g. `shellcheck.yml` for non-shell projects)
 - [ ] Adjust `.github/labels.yml` if needed and push to sync labels
-- [ ] Remove workflows that don't apply (e.g. `shellcheck.yml` for non-shell projects)
 - [ ] Add project-specific secrets in repo Settings → Secrets
+- [ ] Set up branch protection (required status checks) in repo Settings → Branches

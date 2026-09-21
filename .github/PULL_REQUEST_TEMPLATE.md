@@ -14,6 +14,10 @@
 
 <!-- Describe how you tested this change. -->
 
-## Notes for reviewer
+## Linked issues
 
-<!-- Anything non-obvious, links to related issues, or caveats. -->
+<!-- Fixes #123, Related to #456 -->
+
+## Breaking changes
+
+<!-- Is this a breaking change? Explain below if yes. -->
